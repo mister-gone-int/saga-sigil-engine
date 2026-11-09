@@ -1,0 +1,5 @@
+# Builds are published as release files, never committed.
+*.so
+*.dll
+*.tar.xz
+*.zip
